@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Jimenez</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on **MaviFun**
+- 🔭 I’m currently working on **OneWe**
 
 - 🌱 I’m currently learning **Solidity**
 
